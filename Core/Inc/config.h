@@ -40,7 +40,7 @@
 #define THROTTLEOFFSET 45
 #define THROTTLEMAX 175
 #define BRAKEOFFSET 50
-#define BRAKEMAX 190
+#define BRAKEMAX 193
 
 // parameters for speed calculation
 #define WHEEL_CIRCUMFERENCE 550 //690 for original M365 motor
