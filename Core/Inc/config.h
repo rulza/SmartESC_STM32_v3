@@ -9,7 +9,7 @@
 #define CONFIG_H_
 #include "stdint.h"
 
-//Dangerzone, do not touch!!
+//Dangerzone, do not touch!!!
 #define DISPLAY_TYPE_M365DASHBOARD (1<<1)
 #define DISPLAY_TYPE_DEBUG (1<<0)							// For ASCII-Output in Debug mode);
 
